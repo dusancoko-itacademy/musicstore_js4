@@ -8,8 +8,16 @@ body {
     padding: 0;
 }
 
+.ranking-image {
+    height: 3.75rem;
+}
+
 .releases {
     padding: 1rem;
+}
+
+.table th, .table td {
+    vertical-align: middle;
 }
 
 .tabs .nav-item.active {
